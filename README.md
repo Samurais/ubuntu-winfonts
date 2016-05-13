@@ -2,7 +2,10 @@
 
 关于ubuntu中node-canvas不能显示中文的解决方法: 在Ubuntu上安装Windows字体
 
-
+## Step 0 Install ttf-mscorefonts-installer
+```
+sudo apt-get install ttf-mscorefonts-installer
+```
 ## Step1 拷贝字体 
 在 /usr/share/fonts/ 中创建一个新的文件夹 winfonts
 ```
