@@ -5,6 +5,7 @@
 ## Step 0 Install ttf-mscorefonts-installer
 ```
 sudo apt-get install ttf-mscorefonts-installer
+
 ```
 ## Step1 拷贝字体 
 在 /usr/share/fonts/ 中创建一个新的文件夹 winfonts
